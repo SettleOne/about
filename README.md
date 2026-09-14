@@ -13,6 +13,8 @@ Instead of treating escrow as capital that simply waits until settlement, Settle
 [**Open SettleOne →**](https://settle-one-marketing.vercel.app/)
 
 ## Table of Contents
+
+- [ETHOnline Hackathon Achievements](#ethonline-hackathon-achievements)
 - [Overview](#overview)
 - [The Problem](#the-problem)
 - [The SettleOne Approach](#the-settleone-approach)
